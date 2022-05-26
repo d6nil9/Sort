@@ -4,6 +4,16 @@ const int n = 5;
 
 int main()
 {
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
+	const int n = 5;
 
 	while ((min < max) && stop > 0) {
 		stop = 0;
