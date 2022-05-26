@@ -4,11 +4,6 @@ const int n = 5;
 
 int main()
 {
-	int count = 0;
-	int min = 0;
-	int max = n - 1;
-	int stop = 1;
-	int numbers[n] = { 5, 4, 3, 2, 1 };
 
 	while ((min < max) && stop > 0) {
 		stop = 0;
